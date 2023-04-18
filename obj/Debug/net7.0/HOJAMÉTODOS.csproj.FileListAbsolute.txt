@@ -1,0 +1,15 @@
+C:\Users\kenne\source\repos\HOJAMÉTODOS\bin\Debug\net7.0\HOJAMÉTODOS.exe
+C:\Users\kenne\source\repos\HOJAMÉTODOS\bin\Debug\net7.0\HOJAMÉTODOS.deps.json
+C:\Users\kenne\source\repos\HOJAMÉTODOS\bin\Debug\net7.0\HOJAMÉTODOS.runtimeconfig.json
+C:\Users\kenne\source\repos\HOJAMÉTODOS\bin\Debug\net7.0\HOJAMÉTODOS.dll
+C:\Users\kenne\source\repos\HOJAMÉTODOS\bin\Debug\net7.0\HOJAMÉTODOS.pdb
+C:\Users\kenne\source\repos\HOJAMÉTODOS\obj\Debug\net7.0\HOJAMÉTODOS.csproj.AssemblyReference.cache
+C:\Users\kenne\source\repos\HOJAMÉTODOS\obj\Debug\net7.0\HOJAMÉTODOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\HOJAMÉTODOS\obj\Debug\net7.0\HOJAMÉTODOS.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\HOJAMÉTODOS\obj\Debug\net7.0\HOJAMÉTODOS.AssemblyInfo.cs
+C:\Users\kenne\source\repos\HOJAMÉTODOS\obj\Debug\net7.0\HOJAMÉTODOS.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\HOJAMÉTODOS\obj\Debug\net7.0\HOJAMÉTODOS.dll
+C:\Users\kenne\source\repos\HOJAMÉTODOS\obj\Debug\net7.0\refint\HOJAMÉTODOS.dll
+C:\Users\kenne\source\repos\HOJAMÉTODOS\obj\Debug\net7.0\HOJAMÉTODOS.pdb
+C:\Users\kenne\source\repos\HOJAMÉTODOS\obj\Debug\net7.0\HOJAMÉTODOS.genruntimeconfig.cache
+C:\Users\kenne\source\repos\HOJAMÉTODOS\obj\Debug\net7.0\ref\HOJAMÉTODOS.dll
